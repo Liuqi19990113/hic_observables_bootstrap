@@ -1,0 +1,1 @@
+This is a python code package to calculate final state observables of heavy ion collision. You can use it to calculate v2, v3, pT and vn-pT correlation and SC(m,n) and so on. Bootstrap method are used here to calculate mean vaule and the std error.
